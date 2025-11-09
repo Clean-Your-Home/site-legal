@@ -1,0 +1,15 @@
+*                 text eol=lf
+
+*.json            diff=json
+*.yaml            diff
+*.yml             diff
+
+*.gitattributes   text export-ignore
+.gitignore        text export-ignore
+
+*.png             binary
+*.svg             binary
+*.ico             binary
+*.jpg             binary
+*.jpeg            binary
+*.webp            binary
